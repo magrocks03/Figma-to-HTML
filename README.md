@@ -1,7 +1,7 @@
 Medisite Landing Page
 A pixel-perfect recreation of a medical website landing page from a Figma design.
 
-Live Site: [your-live-site-url.com]
+Live Site: [https://magrocks03.github.io/Figma-to-HTML/]
 
 Built With:
 HTML5
